@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
+  <subtitle>我的梦想</subtitle>
+  <link href="https://hnuyjj.github.io/project/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="https://hnuyjj.github.io/project/"/>
   <updated>2022-07-09T04:58:55.169Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hnuyjj.github.io/project/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>湖大吴彦祖</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/07/09/hello-world/"/>
-    <id>http://example.com/2022/07/09/hello-world/</id>
+    <link href="https://hnuyjj.github.io/project/2022/07/09/hello-world/"/>
+    <id>https://hnuyjj.github.io/project/2022/07/09/hello-world/</id>
     <published>2022-07-09T04:58:55.169Z</published>
     <updated>2022-07-09T04:58:55.169Z</updated>
     
