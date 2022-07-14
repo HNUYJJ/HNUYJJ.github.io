@@ -3,11 +3,11 @@
   <title>彦祖的Blog</title>
   
   <subtitle>嗨，你又来看彦祖啦！</subtitle>
-  <link href="https://hnuyjj.github.io/project/atom.xml" rel="self"/>
+  <link href="https://hnuyjj.github.io/atom.xml" rel="self"/>
   
-  <link href="https://hnuyjj.github.io/project/"/>
+  <link href="https://hnuyjj.github.io/"/>
   <updated>2022-07-09T04:58:55.169Z</updated>
-  <id>https://hnuyjj.github.io/project/</id>
+  <id>https://hnuyjj.github.io/</id>
   
   <author>
     <name>湖大吴彦祖</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://hnuyjj.github.io/project/2022/07/09/hello-world/"/>
-    <id>https://hnuyjj.github.io/project/2022/07/09/hello-world/</id>
+    <link href="https://hnuyjj.github.io/2022/07/09/hello-world/"/>
+    <id>https://hnuyjj.github.io/2022/07/09/hello-world/</id>
     <published>2022-07-09T04:58:55.169Z</published>
     <updated>2022-07-09T04:58:55.169Z</updated>
     
