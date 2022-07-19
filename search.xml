@@ -40,4 +40,35 @@
         <tag>博客</tag>
       </tags>
   </entry>
+  <entry>
+    <title>HTML学习第一天</title>
+    <url>/2022/07/19/HTML%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<p>啊啊啊啊啊啊，sorry，sorry，<del>鸽王</del>(bushi)我回来啦！！！<span id="more"></span>不好意思哇，又双叒叕鸽了好几天…</p>
+<p>今天晚上也就是7.19号晚上，实在没事干的我<del>只好</del>开始学习，迈出了学习HTML的第一步，后面会陆续学习CSS和JS滴<del>（如果有时间的话）</del>！</p>
+<p>今天初步学习了一下HTML的基础知识，<del>仅凭刚学完的记忆</del>总结一下，有以下几点：</p>
+<p><strong>1、HTML是一种超文本标记语言，不是编程语言</strong></p>
+<p>​	 <strong>标记语言就是一套标签</strong> </p>
+<p>​	 <strong>所谓网页其实就是HTML文件</strong></p>
+<p><strong>2、浏览器内核（即渲染引擎）负责读取网页内容，整理讯息，计算网页的显示方式并显示页面</strong></p>
+<p><strong>3、HTML是Web标准里的结构部分，用于对网页元素进行整理和分类</strong></p>
+<p>​     <strong>CSS是表现部分，用于设置网页元素的板式，颜色，大小等外观样式，主要指的是CSS</strong></p>
+<p>​	 <strong>JS是行为部分，是指网页模型的定义与交互的编写</strong></p>
+<p><strong>4、HTML的基本语法即标签，标签一般成对出现，如 &lt; html &gt; 为开始标签，&lt; /html &gt; 为结束标签</strong></p>
+<p>​	  <strong>也存在单标签，如 &lt; br / &gt;，但是很少</strong></p>
+<p>​	   <strong>这些标签具有包含和并列关系</strong>   </p>
+<p><strong>5、&lt; html &gt;为根标签，是页面中最大的标签</strong></p>
+<p>​	  <strong>&lt; head &gt;为文档头部标签，其中必须设置的标签为title</strong></p>
+<p>​	  <strong>&lt; title &gt;为文档的标题，网页中显示为网页标题</strong></p>
+<p>​	   <strong>&lt; body &gt;为文档的主题，元素包含文档的所有内容，网页的内容基本都放到body里面</strong></p>
+<p><strong>好啦，暂时先总结这么多，我发现写博客记录学习过程好费时间哇，有这个写博客的时间我已经可以又学了很多知识呢，害，有点纠结了，总之，今天的记录先到这里啦！下(bu)篇(zhi)博(he)客(shi)再见~</strong></p>
+]]></content>
+      <categories>
+        <category>hexo博客</category>
+        <category>学习记录</category>
+      </categories>
+      <tags>
+        <tag>自主学习</tag>
+        <tag>HTML</tag>
+      </tags>
+  </entry>
 </search>
