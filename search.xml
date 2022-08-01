@@ -77,7 +77,7 @@
     <content><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！<span id="more"></span></p>
 <p>不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的学习过程也懒得记录了，没办法，我还是觉得记录太麻烦啦！有点费时间嗷。</p>
 <p>HTML学完，感觉蛮简单的嘛，只要记住那些标签和属性什么的就好啦！多敲敲代码，熟练掌握就好了嗷。也没什么多说的啦，就给大家看一个我边学边写的综合案例2吧，嘿嘿嘿~</p>
-<pre><code class="xml">&lt;!DOCTYPE html&gt;
+<pre><code class="html">&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
     &lt;meta charset="UTF-8"&gt;
