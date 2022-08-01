@@ -72,12 +72,12 @@
       </tags>
   </entry>
   <entry>
-    <title>HTML学习完成</title>
+    <title></title>
     <url>/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/</url>
-    <content><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！<span id="more"></span></p>
+    <content><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！</p>
 <p>不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的学习过程也懒得记录了，没办法，我还是觉得记录太麻烦啦！有点费时间嗷。</p>
 <p>HTML学完，感觉蛮简单的嘛，只要记住那些标签和属性什么的就好啦！多敲敲代码，熟练掌握就好了嗷。也没什么多说的啦，就给大家看一个我边学边写的综合案例2吧，嘿嘿嘿~</p>
-<pre><code class="html">&lt;!DOCTYPE html&gt;
+<pre><code class="xml">&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
     &lt;meta charset="UTF-8"&gt;
@@ -190,12 +190,21 @@
 &lt;/table&gt;
 &lt;/body&gt;
 &lt;/html&gt;
+html
 </code></pre>
 <p>原谅我格式有点小乱，嘿嘿嘿<del>但是代码还是写的没问题的啦</del>大家可以运行看看哦，嘻嘻~</p>
 <p>效果图如下：</p>
-<p><img src="/.io//%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B2.png" alt="综合案例2"></p>
+<p><img src="http://localhost:4000/.io//%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B2.png" alt="综合案例2"></p>
 <p>好啦，HTML到这里就告一段落啦，接下来开始CSS之旅咯，准备 “给画（HTML）上色（CSS）” 啦！</p>
 <p>大家拜拜啦，CSS结束再见~</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>JavaScript学习第一天</title>
+    <url>/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+    <content><![CDATA[<p>铛铛铛！没想到我这么快就又发了一篇文章吧！嘿嘿~<span id="more"></span></p>
+<p>其实又是一篇水文，只是我想用来记录一下我学习JavaScript的第一天啦！学了一点CSS后，发现CSS内容好多哇，于是决定先去学习一下JavaScript，以后CSS和JavaScript同时学习，毕竟HTML，CSS和JavaScript三者是一体的嘛~ 今天稍稍的学习了一点JavaScript的内容，哇，感觉又发现了新大陆诶（JavaScript真是一门年轻而又功能强大的编程语言呢！）！真有意思，嘿嘿嘿 ~</p>
+<p>接下来我一定会努力学习CSS和JavaScript的！争取早日实现前端知识的应用，甚至将知识应用变现，嘿嘿嘿~好啦，就说这么多了，我们<del>下篇博客见</del> ~</p>
 ]]></content>
       <categories>
         <category>hexo博客</category>
@@ -203,7 +212,7 @@
       </categories>
       <tags>
         <tag>自主学习</tag>
-        <tag>HTML</tag>
+        <tag>JavaScript</tag>
       </tags>
   </entry>
 </search>

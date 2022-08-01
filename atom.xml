@@ -6,7 +6,7 @@
   <link href="https://hnuyjj.github.io/atom.xml" rel="self"/>
   
   <link href="https://hnuyjj.github.io/"/>
-  <updated>2022-07-28T14:43:57.596Z</updated>
+  <updated>2022-08-01T13:54:18.291Z</updated>
   <id>https://hnuyjj.github.io/</id>
   
   <author>
@@ -17,14 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>HTML学习完成</title>
-    <link href="https://hnuyjj.github.io/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/"/>
-    <id>https://hnuyjj.github.io/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/</id>
-    <published>2022-07-28T14:21:40.000Z</published>
-    <updated>2022-07-28T14:43:57.596Z</updated>
+    <title>JavaScript学习第一天</title>
+    <link href="https://hnuyjj.github.io/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    <id>https://hnuyjj.github.io/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</id>
+    <published>2022-08-01T13:44:05.000Z</published>
+    <updated>2022-08-01T13:54:18.291Z</updated>
     
     
-    <summary type="html">&lt;p&gt;嗨嗨嗨，我&lt;del&gt;鸽王&lt;/del&gt;（bushi）又回来啦！&lt;/p&gt;</summary>
+    <summary type="html">&lt;p&gt;铛铛铛！没想到我这么快就又发了一篇文章吧！嘿嘿~&lt;/p&gt;</summary>
     
     
     
@@ -35,7 +35,29 @@
     
     <category term="自主学习" scheme="https://hnuyjj.github.io/tags/%E8%87%AA%E4%B8%BB%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="HTML" scheme="https://hnuyjj.github.io/tags/HTML/"/>
+    <category term="JavaScript" scheme="https://hnuyjj.github.io/tags/JavaScript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="https://hnuyjj.github.io/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/"/>
+    <id>https://hnuyjj.github.io/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/</id>
+    <published>2022-07-28T14:21:40.529Z</published>
+    <updated>2022-08-01T14:00:56.735Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;嗨嗨嗨，我&lt;del&gt;鸽王&lt;/del&gt;（bushi）又回来啦！&lt;/p&gt;
+&lt;p&gt;不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
