@@ -77,122 +77,125 @@
     <content><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！<span id="more"></span></p>
 <p>不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的学习过程也懒得记录了，没办法，我还是觉得记录太麻烦啦！有点费时间嗷。</p>
 <p>HTML学完，感觉蛮简单的嘛，只要记住那些标签和属性什么的就好啦！多敲敲代码，熟练掌握就好了嗷。也没什么多说的啦，就给大家看一个我边学边写的综合案例2吧，嘿嘿嘿~</p>
-<pre><code class="html">&lt;!DOCTYPE html&gt;
+<pre><code class="HTML">&lt;!DOCTYPE html&gt;
 &lt;html lang="en"&gt;
+
 &lt;head&gt;
     &lt;meta charset="UTF-8"&gt;
     &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
     &lt;meta name="viewport" content="width=&lt;device-width&gt;, initial-scale=1.0"&gt;
     &lt;title&gt;Document&lt;/title&gt;
 &lt;/head&gt;
+
 &lt;body&gt;
-&lt;h2&gt;青春不常在，抓紧谈恋爱&lt;/h2&gt;
-&lt;table&gt;
-&lt;tr&gt;
-        &lt;td&gt;性别：&lt;/td&gt;
-        &lt;td&gt;
-        &lt;label for="nan"&gt;男&lt;/label&gt; &lt;input type="radio" name="sex" checked="checked" id="nan"&gt;
-          &lt;label for="nv"&gt;女&lt;/label&gt; &lt;input type="radio" name="sex" id="nv"&gt; &lt;br&gt;
-        &lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-    &lt;td&gt;生日：&lt;/td&gt;
-    &lt;td&gt; 
-        &lt;select&gt;
-            请选择年
-            &lt;option&gt;1998&lt;/option&gt;
-            &lt;option&gt;1999&lt;/option&gt;
-            &lt;option&gt;2000&lt;/option&gt;
-            &lt;option&gt;2001&lt;/option&gt;
-            &lt;option&gt;2002&lt;/option&gt;
-            &lt;option&gt;2003&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;select&gt;
-            请选择月
-            &lt;option&gt;7&lt;/option&gt;
-            &lt;option&gt;8&lt;/option&gt;
-            &lt;option&gt;9&lt;/option&gt;
-            &lt;option&gt;10&lt;/option&gt;
-            &lt;option&gt;11&lt;/option&gt;
-            &lt;option&gt;12&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;select&gt;
-            请选择日
-            &lt;option&gt;8&lt;/option&gt;
-            &lt;option&gt;9&lt;/option&gt;
-            &lt;option&gt;10&lt;/option&gt;
-            &lt;option&gt;11&lt;/option&gt;
-            &lt;option&gt;12&lt;/option&gt;
-            &lt;option&gt;13&lt;/option&gt;
-    &lt;/select&gt;
-    &lt;td&gt;
-&lt;/tr&gt;
-    &lt;br&gt;
-    &lt;tr&gt;
-         &lt;td&gt;所在地区：&lt;/td&gt;
-         &lt;td&gt;&lt;input type="text" value="北京思密达"&gt;&lt;/td&gt; &lt;br&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;婚姻状况：&lt;/td&gt;
-        &lt;td&gt; &lt;label for="未婚"&gt;未婚&lt;/label&gt; &lt;input type="radio" name="婚姻" checked="checked"  id="未婚"&gt;
-              &lt;label for="已婚"&gt;已婚&lt;/label&gt; &lt;input type="radio" name="婚姻" id="已婚"&gt;
-              &lt;label for="离异"&gt;离异&lt;/label&gt; &lt;input type="radio" name="婚姻" id="离异"&gt; &lt;br&gt;
-        &lt;/td&gt;
-   &lt;/tr&gt;
-              &lt;td&gt;学历：&lt;/td&gt;
-              &lt;td&gt;
-                 &lt;input type="text" value="幼儿园"&gt; &lt;br&gt;
-              &lt;/td&gt;
-    &lt;tr&gt;
-        &lt;td&gt;喜欢的类型：&lt;/td&gt;
+    &lt;h2&gt;青春不常在，抓紧谈恋爱&lt;/h2&gt;
+    &lt;table&gt;
+        &lt;tr&gt;
+            &lt;td&gt;性别：&lt;/td&gt;
             &lt;td&gt;
-                     &lt;label for="妩媚的"&gt;妩媚的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="妩媚的"&gt;
-                &lt;label for="可爱的"&gt;可爱的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="可爱的"&gt; 
+                &lt;label for="nan"&gt;男&lt;/label&gt; &lt;input type="radio" name="sex" checked="checked" id="nan"&gt;
+                &lt;label for="nv"&gt;女&lt;/label&gt; &lt;input type="radio" name="sex" id="nv"&gt; &lt;br&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;生日：&lt;/td&gt;
+            &lt;td&gt;
+                &lt;select&gt;
+                    请选择年
+                    &lt;option&gt;1998&lt;/option&gt;
+                    &lt;option&gt;1999&lt;/option&gt;
+                    &lt;option&gt;2000&lt;/option&gt;
+                    &lt;option&gt;2001&lt;/option&gt;
+                    &lt;option&gt;2002&lt;/option&gt;
+                    &lt;option&gt;2003&lt;/option&gt;
+                &lt;/select&gt;
+                &lt;select&gt;
+                    请选择月
+                    &lt;option&gt;7&lt;/option&gt;
+                    &lt;option&gt;8&lt;/option&gt;
+                    &lt;option&gt;9&lt;/option&gt;
+                    &lt;option&gt;10&lt;/option&gt;
+                    &lt;option&gt;11&lt;/option&gt;
+                    &lt;option&gt;12&lt;/option&gt;
+                &lt;/select&gt;
+                &lt;select&gt;
+                    请选择日
+                    &lt;option&gt;8&lt;/option&gt;
+                    &lt;option&gt;9&lt;/option&gt;
+                    &lt;option&gt;10&lt;/option&gt;
+                    &lt;option&gt;11&lt;/option&gt;
+                    &lt;option&gt;12&lt;/option&gt;
+                    &lt;option&gt;13&lt;/option&gt;
+                &lt;/select&gt;
+            &lt;td&gt;
+        &lt;/tr&gt;
+        &lt;br&gt;
+        &lt;tr&gt;
+            &lt;td&gt;所在地区：&lt;/td&gt;
+            &lt;td&gt;&lt;input type="text" value="北京思密达"&gt;&lt;/td&gt; &lt;br&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;婚姻状况：&lt;/td&gt;
+            &lt;td&gt;
+                &lt;label for="未婚"&gt;未婚&lt;/label&gt; &lt;input type="radio" name="婚姻" checked="checked" id="未婚"&gt;
+                &lt;label for="已婚"&gt;已婚&lt;/label&gt; &lt;input type="radio" name="婚姻" id="已婚"&gt;
+                &lt;label for="离异"&gt;离异&lt;/label&gt; &lt;input type="radio" name="婚姻" id="离异"&gt; &lt;br&gt;
+            &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;td&gt;学历：&lt;/td&gt;
+        &lt;td&gt;
+            &lt;input type="text" value="幼儿园"&gt; &lt;br&gt;
+        &lt;/td&gt;
+        &lt;tr&gt;
+            &lt;td&gt;喜欢的类型：&lt;/td&gt;
+            &lt;td&gt;
+                &lt;label for="妩媚的"&gt;妩媚的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="妩媚的"&gt;
+                &lt;label for="可爱的"&gt;可爱的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="可爱的"&gt;
                 &lt;label for="小鲜肉"&gt;小鲜肉&lt;/label&gt; &lt;input type="checkbox" name="类型" id="小鲜肉"&gt; &lt;br&gt;
             &lt;/td&gt;
-            &lt;/tr&gt;
-                &lt;td&gt;自我介绍：&lt;/td&gt;
-                &lt;td&gt;
-                     &lt;textarea row="3" cols="20"&gt;这个人很懒，什么都没有留下
-                &lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;td&gt;自我介绍：&lt;/td&gt;
+        &lt;td&gt;
+            &lt;textarea row="3" cols="20"&gt;这个人很懒，什么都没有留下
+                    &lt;/td&gt;
     &lt;/textarea&gt; &lt;br&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;input type="submit" value="免费注册"&gt; &lt;br&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-    &lt;input type="checkbox"&gt; 我同意注册条款和会员加入标准 &lt;br&gt;
-           &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-    &lt;a href="http://baidu.com"&gt;我是会员，立即登入&lt;/a&gt; &lt;br&gt;
-        &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;&lt;/td&gt;
-        &lt;td&gt;
-    &lt;h2&gt;我承诺&lt;/h2&gt;
-    &lt;p&gt;
-        &lt;ul&gt;
-            &lt;li&gt;年满18岁&lt;/li&gt;
-            &lt;li&gt;抱着严肃的态度&lt;/li&gt;
-            &lt;li&gt;真诚寻找另一半&lt;/li&gt;
-        &lt;/ul&gt;
-    &lt;/p&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
+            &lt;tr&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td&gt;
+                    &lt;input type="submit" value="免费注册"&gt; &lt;br&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td&gt;
+                    &lt;input type="checkbox"&gt; 我同意注册条款和会员加入标准 &lt;br&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td&gt;
+                    &lt;a href="http://baidu.com"&gt;我是会员，立即登入&lt;/a&gt; &lt;br&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+                &lt;td&gt;&lt;/td&gt;
+                &lt;td&gt;
+                    &lt;h2&gt;我承诺&lt;/h2&gt;
+                    &lt;p&gt;
+                    &lt;ul&gt;
+                        &lt;li&gt;年满18岁&lt;/li&gt;
+                        &lt;li&gt;抱着严肃的态度&lt;/li&gt;
+                        &lt;li&gt;真诚寻找另一半&lt;/li&gt;
+                    &lt;/ul&gt;
+                    &lt;/p&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+    &lt;/table&gt;
 &lt;/body&gt;
+
 &lt;/html&gt;
-html
 </code></pre>
-<p>原谅我格式有点小乱，嘿嘿嘿~ 但是代码还是写的没问题的啦 ~ 大家可以运行看看哦，嘻嘻 ~</p>
+<p><del>原谅我格式有点小乱</del>（现在我学习了CSS之后知道怎么自动格式化代码啦，就不乱了，哈哈哈），嘿嘿嘿~ 但是代码还是写的没问题的啦 ~ 大家可以运行看看哦，嘻嘻 ~</p>
 <p>效果图如下：</p>
 <p><img src="http://localhost:4000/.io//%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B2.png" alt="综合案例2"></p>
 <p>好啦，HTML到这里就告一段落啦，接下来开始CSS之旅咯，准备 “给画（HTML）上色（CSS）” 啦！</p>
