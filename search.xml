@@ -1,229 +1,165 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/07/09/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>!<span id="more"></span> This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new "My New Post"
-</code></pre>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server
-</code></pre>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate
-</code></pre>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy
-</code></pre>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的第一篇博客</title>
-    <url>/2022/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<p><del>注册CSDN也蛮久的了，一直没有发布过什么文章之类的，仅仅在需要的时候用CSDN查过资料等。</del></p>
-<p>**今天我打算发布我的第一篇<del>CSDN</del>Hexo博客的文章<span id="more"></span>**，<del>本来是打算发布到我的Hexo博客上的，但是由于Hexo博客发文章有点麻烦，我还要学习一下怎么用Hexo博客写文章，牵扯到一些相关编辑器的下载与使用等等，所以先把这第一篇文章发在我的CSDN博客上，后续</del>我会把文章<del>转</del>发到Hexo博客上，也欢迎各位来我刚搭好没多久，美化还在进行中的Hexo博客看看呀~</p>
-<p>PS:<u>我的Hexo博客地址</u>：<del><em>Hexo</em></del>你已经在我的Hexo博客里啦！</p>
-<p>分流后学习智能学科与技术专业的即将大三的我，一直感到深深的焦虑，成绩还不够保研，学习上感觉没学到什么东西，技术上更是没有学会什么技术，于是再2022这个暑假我决定要做些什么事情，比如提前学习一些大三将要学习的内容，如人工智能，计算机网络，嵌入式计算机系统，机器学习，数据结构与算法（补修）等等或者自学一些语言技术等，如Python，Java，JavaScript等等以及如何制作微信小程序等等…</p>
-<p>因为我想记录以下我学习的过程，于是决定先搭建一个博客，我看其他同学大佬等都有自己的博客，也挺羡慕的，所以自己也学习他们用Hexo搭建了一个属于自己的博客~</p>
-<p>我的Hexo博客于2022年7月9日中午开工，花了几个小时，在网上查阅各种资料，下载各种所需软件插件等等，一路摸爬滚打，四处碰bug之后终于搭好了一个属于自己的Hexo博客，虽然还只是一个基本的框架，具体装饰还没开搞，但当时的我已经感到非常开心了，终于有了第一个属于自己的博客了！然后我决定想再把博客修饰以下，打扮成自己想要的效果，但是由于过程复杂且不懂（PS：其实是我太懒惰啦！<del>哈哈哈</del>）于是进度为0的美化过程又被我鸽了两天，直到7.11号才开工…</p>
-<p>7.11日我从上午10点左右把一直搞到下午5点多，才终于小小的修饰了一下自己的博客，我用的别人的主题，自己小小的修改了一下（PS：一开始还想照着资料自己从0开始弄来着，后来才发现是我异想天开了，哈哈哈<del>），注意，这个时候还只是小小的改了一点内容啦！因为刚开始不懂，还打算自己弄，碰到了很多bug，所以耽误了很多时间啦！弄完后我还开心的把我的Hexo博客地址发给我的几个朋友想让他们看看，哈哈哈</del>至此，我的博客已经有了一个雏形，后续还需要长时间的美化修改，于是你们应该猜的到的啦，哈哈哈，我又鸽了两天，直到今天，7.13号才开始进一步的细致的美化修改，但是其实今天改了很久，效果也就一般吧，主要是还碰到了各种问题，其中最让我无语的问题是可能网络出了点问题，我在本地调好的Hexo博客上传失败了好多次，而且上传之后，在github打开还有问题，没办法正常显示网页内容了，想发博客都觉得不行了，呜呜呜<del>于是我先到CSDN来记录一下这几天的内容啦，我还要继续为在Hexo博客上发文准备一些基础啦，比如下载并学会使用MarkDown编辑器什么的，所以暂时就记录到这里叭</del></p>
-<p>PS：<del>最后再顺便附上几张我的博客</del>（还在持续优化探索中）<del>的图片啦</del>！嘿嘿嘿<del>欢迎大家来我的Hexo博客看看呀</del> （这篇文章又鸽了两天才发到Hexo博客上，我真是个<del>鸽王</del>（bushi)，哈哈哈，后续的学习内容也会陆续记录在我的Hexo博客上的，欢迎大家监督我学习奥<del>嘿嘿嘿，本来打算先把Hexo博客美化好再发文章的，但是我发现美化太难了，对于我这种对HTML，CSS，JS几乎一窍不通的小白来讲，呜呜呜~~~，所以我打算便美化博客边学习，同时发表学习记录博客啦</del>不过后续的学习记录博客可能又要鸽几天啦，哈哈哈~</p>
-<p>好啦，我的第一篇Hexo博客内容就先写到这里叭<del>大家下篇博客见啦</del>（最后再提一嘴，这个Typora Markdown编辑器实在太好用啦，呜呜呜~~~）</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>微信小程序开发入门</title>
+      <link href="/2022/08/11/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8/"/>
+      <url>/2022/08/11/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8/</url>
+      
+        <content type="html"><![CDATA[<p>铛铛铛！我又回来啦！哈哈哈！<span id="more"></span><br>最近我发的文章都是一些文字学习心得记录，不过没有办法啦，毕竟路漫漫其修远兮，一时半会还拿不出什么成果展示给大家看，嘿嘿嘿（<del>其实是我懒</del>）。</p><p>到现在为止，我除了仍然在继续学习CSS和JavaScript之外，我也已经学了一点微信小程序开发的基本知识啦，不过才看了一点点，刚刚入门，但是不得不说，要开发微信小程序确实还是得先要有一点HTML，CSS和JavaScript的知识嗷（<del>废话</del>），但是呢，我觉得要等我学完CSS和JavaScript的时间实在太长了，而且学无止境，HTML，CSS和JavaScript的知识也根本学不完的好不好！所以我现在决定齐头并进啦！CSS，JavaScript和微信小程序开发的方法都要学习，毕竟我一开始的目的本来就是打算学习如何开发一个微信小程序，只是朋友建议我先学习一下HTML，CSS和JavaScript我就先来打基础了。</p><p>总而言之，也没有什么多说的啦，就是路上的风景与目的地都要兼顾，过程和结果都很重要，一手多抓嘛，哈哈哈，不管那么多了，冲就完事了！</p>]]></content>
+      
+      
       <categories>
-        <category>个人博客</category>
-        <category>Hexo博客</category>
+          
+          <category> hexo博客 </category>
+          
+          <category> 学习记录 </category>
+          
       </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>博客</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HTML学习第一天</title>
-    <url>/2022/07/19/HTML%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>啊啊啊啊啊啊，sorry，sorry，<del>鸽王</del>(bushi)我回来啦！！！<span id="more"></span>不好意思哇，又双叒叕鸽了好几天…</p>
-<p>今天晚上也就是7.19号晚上，实在没事干的我<del>只好</del>开始学习，迈出了学习HTML的第一步，后面会陆续学习CSS和JS滴<del>（如果有时间的话）</del>！</p>
-<p>今天初步学习了一下HTML的基础知识，<del>仅凭刚学完的记忆</del>总结一下，有以下几点：</p>
-<p><strong>1、HTML是一种超文本标记语言，不是编程语言</strong></p>
-<p>​	 <strong>标记语言就是一套标签</strong> </p>
-<p>​	 <strong>所谓网页其实就是HTML文件</strong></p>
-<p><strong>2、浏览器内核（即渲染引擎）负责读取网页内容，整理讯息，计算网页的显示方式并显示页面</strong></p>
-<p><strong>3、HTML是Web标准里的结构部分，用于对网页元素进行整理和分类</strong></p>
-<p>​     <strong>CSS是表现部分，用于设置网页元素的板式，颜色，大小等外观样式，主要指的是CSS</strong></p>
-<p>​	 <strong>JS是行为部分，是指网页模型的定义与交互的编写</strong></p>
-<p><strong>4、HTML的基本语法即标签，标签一般成对出现，如 &lt; html &gt; 为开始标签，&lt; /html &gt; 为结束标签</strong></p>
-<p>​	  <strong>也存在单标签，如 &lt; br / &gt;，但是很少</strong></p>
-<p>​	   <strong>这些标签具有包含和并列关系</strong>   </p>
-<p><strong>5、&lt; html &gt;为根标签，是页面中最大的标签</strong></p>
-<p>​	  <strong>&lt; head &gt;为文档头部标签，其中必须设置的标签为title</strong></p>
-<p>​	  <strong>&lt; title &gt;为文档的标题，网页中显示为网页标题</strong></p>
-<p>​	   <strong>&lt; body &gt;为文档的主题，元素包含文档的所有内容，网页的内容基本都放到body里面</strong></p>
-<p><strong>好啦，暂时先总结这么多，我发现写博客记录学习过程好费时间哇，有这个写博客的时间我已经可以又学了很多知识呢，害，有点纠结了，总之，今天的记录先到这里啦！下(bu)篇(zhi)博(he)客(shi)再见~</strong></p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 自主学习 </tag>
+            
+            <tag> 微信小程序开发 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>JavaScript学习第一天</title>
+      <link href="/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+      <url>/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>铛铛铛！没想到我这么快就又发了一篇文章吧！嘿嘿~<span id="more"></span></p><p>其实又是一篇水文，只是我想用来记录一下我学习JavaScript的第一天啦！学了一点CSS后，发现CSS内容好多哇，于是决定先去学习一下JavaScript，以后CSS和JavaScript同时学习，毕竟HTML，CSS和JavaScript三者是一体的嘛~ 今天稍稍的学习了一点JavaScript的内容，哇，感觉又发现了新大陆诶（JavaScript真是一门年轻而又功能强大的编程语言呢！）！真有意思，嘿嘿嘿 ~</p><p>接下来我一定会努力学习CSS和JavaScript的！争取早日实现前端知识的应用，甚至将知识应用变现，嘿嘿嘿~好啦，就说这么多了，我们<del>下篇博客见</del> ~</p>]]></content>
+      
+      
       <categories>
-        <category>hexo博客</category>
-        <category>学习记录</category>
+          
+          <category> hexo博客 </category>
+          
+          <category> 学习记录 </category>
+          
       </categories>
-      <tags>
-        <tag>自主学习</tag>
-        <tag>HTML</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HTML学习完成</title>
-    <url>/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/</url>
-    <content><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！<span id="more"></span></p>
-<p>不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的学习过程也懒得记录了，没办法，我还是觉得记录太麻烦啦！有点费时间嗷。</p>
-<p>HTML学完，感觉蛮简单的嘛，只要记住那些标签和属性什么的就好啦！多敲敲代码，熟练掌握就好了嗷。也没什么多说的啦，就给大家看一个我边学边写的综合案例2吧，嘿嘿嘿~</p>
-<pre><code class="HTML">&lt;!DOCTYPE html&gt;
-&lt;html lang="en"&gt;
-
-&lt;head&gt;
-    &lt;meta charset="UTF-8"&gt;
-    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
-    &lt;meta name="viewport" content="width=&lt;device-width&gt;, initial-scale=1.0"&gt;
-    &lt;title&gt;Document&lt;/title&gt;
-&lt;/head&gt;
-
-&lt;body&gt;
-    &lt;h2&gt;青春不常在，抓紧谈恋爱&lt;/h2&gt;
-    &lt;table&gt;
-        &lt;tr&gt;
-            &lt;td&gt;性别：&lt;/td&gt;
-            &lt;td&gt;
-                &lt;label for="nan"&gt;男&lt;/label&gt; &lt;input type="radio" name="sex" checked="checked" id="nan"&gt;
-                &lt;label for="nv"&gt;女&lt;/label&gt; &lt;input type="radio" name="sex" id="nv"&gt; &lt;br&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;生日：&lt;/td&gt;
-            &lt;td&gt;
-                &lt;select&gt;
-                    请选择年
-                    &lt;option&gt;1998&lt;/option&gt;
-                    &lt;option&gt;1999&lt;/option&gt;
-                    &lt;option&gt;2000&lt;/option&gt;
-                    &lt;option&gt;2001&lt;/option&gt;
-                    &lt;option&gt;2002&lt;/option&gt;
-                    &lt;option&gt;2003&lt;/option&gt;
-                &lt;/select&gt;
-                &lt;select&gt;
-                    请选择月
-                    &lt;option&gt;7&lt;/option&gt;
-                    &lt;option&gt;8&lt;/option&gt;
-                    &lt;option&gt;9&lt;/option&gt;
-                    &lt;option&gt;10&lt;/option&gt;
-                    &lt;option&gt;11&lt;/option&gt;
-                    &lt;option&gt;12&lt;/option&gt;
-                &lt;/select&gt;
-                &lt;select&gt;
-                    请选择日
-                    &lt;option&gt;8&lt;/option&gt;
-                    &lt;option&gt;9&lt;/option&gt;
-                    &lt;option&gt;10&lt;/option&gt;
-                    &lt;option&gt;11&lt;/option&gt;
-                    &lt;option&gt;12&lt;/option&gt;
-                    &lt;option&gt;13&lt;/option&gt;
-                &lt;/select&gt;
-            &lt;td&gt;
-        &lt;/tr&gt;
-        &lt;br&gt;
-        &lt;tr&gt;
-            &lt;td&gt;所在地区：&lt;/td&gt;
-            &lt;td&gt;&lt;input type="text" value="北京思密达"&gt;&lt;/td&gt; &lt;br&gt;
-        &lt;/tr&gt;
-        &lt;tr&gt;
-            &lt;td&gt;婚姻状况：&lt;/td&gt;
-            &lt;td&gt;
-                &lt;label for="未婚"&gt;未婚&lt;/label&gt; &lt;input type="radio" name="婚姻" checked="checked" id="未婚"&gt;
-                &lt;label for="已婚"&gt;已婚&lt;/label&gt; &lt;input type="radio" name="婚姻" id="已婚"&gt;
-                &lt;label for="离异"&gt;离异&lt;/label&gt; &lt;input type="radio" name="婚姻" id="离异"&gt; &lt;br&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;td&gt;学历：&lt;/td&gt;
-        &lt;td&gt;
-            &lt;input type="text" value="幼儿园"&gt; &lt;br&gt;
-        &lt;/td&gt;
-        &lt;tr&gt;
-            &lt;td&gt;喜欢的类型：&lt;/td&gt;
-            &lt;td&gt;
-                &lt;label for="妩媚的"&gt;妩媚的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="妩媚的"&gt;
-                &lt;label for="可爱的"&gt;可爱的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="可爱的"&gt;
-                &lt;label for="小鲜肉"&gt;小鲜肉&lt;/label&gt; &lt;input type="checkbox" name="类型" id="小鲜肉"&gt; &lt;br&gt;
-            &lt;/td&gt;
-        &lt;/tr&gt;
-        &lt;td&gt;自我介绍：&lt;/td&gt;
-        &lt;td&gt;
-            &lt;textarea row="3" cols="20"&gt;这个人很懒，什么都没有留下
-                    &lt;/td&gt;
-    &lt;/textarea&gt; &lt;br&gt;
-            &lt;tr&gt;
-                &lt;td&gt;&lt;/td&gt;
-                &lt;td&gt;
-                    &lt;input type="submit" value="免费注册"&gt; &lt;br&gt;
-                &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;&lt;/td&gt;
-                &lt;td&gt;
-                    &lt;input type="checkbox"&gt; 我同意注册条款和会员加入标准 &lt;br&gt;
-                &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;&lt;/td&gt;
-                &lt;td&gt;
-                    &lt;a href="http://baidu.com"&gt;我是会员，立即登入&lt;/a&gt; &lt;br&gt;
-                &lt;/td&gt;
-            &lt;/tr&gt;
-            &lt;tr&gt;
-                &lt;td&gt;&lt;/td&gt;
-                &lt;td&gt;
-                    &lt;h2&gt;我承诺&lt;/h2&gt;
-                    &lt;p&gt;
-                    &lt;ul&gt;
-                        &lt;li&gt;年满18岁&lt;/li&gt;
-                        &lt;li&gt;抱着严肃的态度&lt;/li&gt;
-                        &lt;li&gt;真诚寻找另一半&lt;/li&gt;
-                    &lt;/ul&gt;
-                    &lt;/p&gt;
-                &lt;/td&gt;
-            &lt;/tr&gt;
-    &lt;/table&gt;
-&lt;/body&gt;
-
-&lt;/html&gt;
-</code></pre>
-<p><del>原谅我格式有点小乱</del>（现在我学习了CSS之后知道怎么自动格式化代码啦，就不乱了，哈哈哈），嘿嘿嘿~ 但是代码还是写的没问题的啦 ~ 大家可以运行看看哦，嘻嘻 ~</p>
-<p>效果图如下：</p>
-<p><img src="http://localhost:4000/.io//%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B2.png" alt="综合案例2"></p>
-<p>好啦，HTML到这里就告一段落啦，接下来开始CSS之旅咯，准备 “给画（HTML）上色（CSS）” 啦！</p>
-<p>大家拜拜啦，CSS结束再见~</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 自主学习 </tag>
+            
+            <tag> JavaScript </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTML学习完成</title>
+      <link href="/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/"/>
+      <url>/2022/07/28/HTML%E5%AD%A6%E4%B9%A0%E5%AE%8C%E6%88%90/</url>
+      
+        <content type="html"><![CDATA[<p>嗨嗨嗨，我<del>鸽王</del>（bushi）又回来啦！<span id="more"></span></p><p>不好意思哇各位，又久等啦！不过我这次回来是跟大家说我已经将HTML的基础知识学习的差不多了，接下来要开始学习CSS嘞！原谅我懒，HTML这么一点点内容断断续续学了一两个礼拜才学完，呜呜呜~而且中间的学习过程也懒得记录了，没办法，我还是觉得记录太麻烦啦！有点费时间嗷。</p><p>HTML学完，感觉蛮简单的嘛，只要记住那些标签和属性什么的就好啦！多敲敲代码，熟练掌握就好了嗷。也没什么多说的啦，就给大家看一个我边学边写的综合案例2吧，嘿嘿嘿~</p><pre><code class="HTML">&lt;!DOCTYPE html&gt;&lt;html lang="en"&gt;&lt;head&gt;    &lt;meta charset="UTF-8"&gt;    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;    &lt;meta name="viewport" content="width=&lt;device-width&gt;, initial-scale=1.0"&gt;    &lt;title&gt;Document&lt;/title&gt;&lt;/head&gt;&lt;body&gt;    &lt;h2&gt;青春不常在，抓紧谈恋爱&lt;/h2&gt;    &lt;table&gt;        &lt;tr&gt;            &lt;td&gt;性别：&lt;/td&gt;            &lt;td&gt;                &lt;label for="nan"&gt;男&lt;/label&gt; &lt;input type="radio" name="sex" checked="checked" id="nan"&gt;                &lt;label for="nv"&gt;女&lt;/label&gt; &lt;input type="radio" name="sex" id="nv"&gt; &lt;br&gt;            &lt;/td&gt;        &lt;/tr&gt;        &lt;tr&gt;            &lt;td&gt;生日：&lt;/td&gt;            &lt;td&gt;                &lt;select&gt;                    请选择年                    &lt;option&gt;1998&lt;/option&gt;                    &lt;option&gt;1999&lt;/option&gt;                    &lt;option&gt;2000&lt;/option&gt;                    &lt;option&gt;2001&lt;/option&gt;                    &lt;option&gt;2002&lt;/option&gt;                    &lt;option&gt;2003&lt;/option&gt;                &lt;/select&gt;                &lt;select&gt;                    请选择月                    &lt;option&gt;7&lt;/option&gt;                    &lt;option&gt;8&lt;/option&gt;                    &lt;option&gt;9&lt;/option&gt;                    &lt;option&gt;10&lt;/option&gt;                    &lt;option&gt;11&lt;/option&gt;                    &lt;option&gt;12&lt;/option&gt;                &lt;/select&gt;                &lt;select&gt;                    请选择日                    &lt;option&gt;8&lt;/option&gt;                    &lt;option&gt;9&lt;/option&gt;                    &lt;option&gt;10&lt;/option&gt;                    &lt;option&gt;11&lt;/option&gt;                    &lt;option&gt;12&lt;/option&gt;                    &lt;option&gt;13&lt;/option&gt;                &lt;/select&gt;            &lt;td&gt;        &lt;/tr&gt;        &lt;br&gt;        &lt;tr&gt;            &lt;td&gt;所在地区：&lt;/td&gt;            &lt;td&gt;&lt;input type="text" value="北京思密达"&gt;&lt;/td&gt; &lt;br&gt;        &lt;/tr&gt;        &lt;tr&gt;            &lt;td&gt;婚姻状况：&lt;/td&gt;            &lt;td&gt;                &lt;label for="未婚"&gt;未婚&lt;/label&gt; &lt;input type="radio" name="婚姻" checked="checked" id="未婚"&gt;                &lt;label for="已婚"&gt;已婚&lt;/label&gt; &lt;input type="radio" name="婚姻" id="已婚"&gt;                &lt;label for="离异"&gt;离异&lt;/label&gt; &lt;input type="radio" name="婚姻" id="离异"&gt; &lt;br&gt;            &lt;/td&gt;        &lt;/tr&gt;        &lt;td&gt;学历：&lt;/td&gt;        &lt;td&gt;            &lt;input type="text" value="幼儿园"&gt; &lt;br&gt;        &lt;/td&gt;        &lt;tr&gt;            &lt;td&gt;喜欢的类型：&lt;/td&gt;            &lt;td&gt;                &lt;label for="妩媚的"&gt;妩媚的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="妩媚的"&gt;                &lt;label for="可爱的"&gt;可爱的&lt;/label&gt; &lt;input type="checkbox" name="类型" id="可爱的"&gt;                &lt;label for="小鲜肉"&gt;小鲜肉&lt;/label&gt; &lt;input type="checkbox" name="类型" id="小鲜肉"&gt; &lt;br&gt;            &lt;/td&gt;        &lt;/tr&gt;        &lt;td&gt;自我介绍：&lt;/td&gt;        &lt;td&gt;            &lt;textarea row="3" cols="20"&gt;这个人很懒，什么都没有留下                    &lt;/td&gt;    &lt;/textarea&gt; &lt;br&gt;            &lt;tr&gt;                &lt;td&gt;&lt;/td&gt;                &lt;td&gt;                    &lt;input type="submit" value="免费注册"&gt; &lt;br&gt;                &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;                &lt;td&gt;&lt;/td&gt;                &lt;td&gt;                    &lt;input type="checkbox"&gt; 我同意注册条款和会员加入标准 &lt;br&gt;                &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;                &lt;td&gt;&lt;/td&gt;                &lt;td&gt;                    &lt;a href="http://baidu.com"&gt;我是会员，立即登入&lt;/a&gt; &lt;br&gt;                &lt;/td&gt;            &lt;/tr&gt;            &lt;tr&gt;                &lt;td&gt;&lt;/td&gt;                &lt;td&gt;                    &lt;h2&gt;我承诺&lt;/h2&gt;                    &lt;p&gt;                    &lt;ul&gt;                        &lt;li&gt;年满18岁&lt;/li&gt;                        &lt;li&gt;抱着严肃的态度&lt;/li&gt;                        &lt;li&gt;真诚寻找另一半&lt;/li&gt;                    &lt;/ul&gt;                    &lt;/p&gt;                &lt;/td&gt;            &lt;/tr&gt;    &lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</code></pre><p><del>原谅我格式有点小乱</del>（现在我学习了CSS之后知道怎么自动格式化代码啦，就不乱了，哈哈哈），嘿嘿嘿~ 但是代码还是写的没问题的啦 ~ 大家可以运行看看哦，嘻嘻 ~</p><p>效果图如下：</p><p><img src="http://localhost:4000/.io//%E7%BB%BC%E5%90%88%E6%A1%88%E4%BE%8B2.png" alt="综合案例2"></p><p>好啦，HTML到这里就告一段落啦，接下来开始CSS之旅咯，准备 “给画（HTML）上色（CSS）” 啦！</p><p>大家拜拜啦，CSS结束再见~</p>]]></content>
+      
+      
       <categories>
-        <category>hexo博客</category>
-        <category>学习记录</category>
+          
+          <category> hexo博客 </category>
+          
+          <category> 学习记录 </category>
+          
       </categories>
-      <tags>
-        <tag>自主学习</tag>
-        <tag>HTML</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>JavaScript学习第一天</title>
-    <url>/2022/08/01/%E5%AD%A6%E4%B9%A0JavaScript%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
-    <content><![CDATA[<p>铛铛铛！没想到我这么快就又发了一篇文章吧！嘿嘿~<span id="more"></span></p>
-<p>其实又是一篇水文，只是我想用来记录一下我学习JavaScript的第一天啦！学了一点CSS后，发现CSS内容好多哇，于是决定先去学习一下JavaScript，以后CSS和JavaScript同时学习，毕竟HTML，CSS和JavaScript三者是一体的嘛~ 今天稍稍的学习了一点JavaScript的内容，哇，感觉又发现了新大陆诶（JavaScript真是一门年轻而又功能强大的编程语言呢！）！真有意思，嘿嘿嘿 ~</p>
-<p>接下来我一定会努力学习CSS和JavaScript的！争取早日实现前端知识的应用，甚至将知识应用变现，嘿嘿嘿~好啦，就说这么多了，我们<del>下篇博客见</del> ~</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> 自主学习 </tag>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HTML学习第一天</title>
+      <link href="/2022/07/19/HTML%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+      <url>/2022/07/19/HTML%E5%AD%A6%E4%B9%A0%E7%AC%AC%E4%B8%80%E5%A4%A9/</url>
+      
+        <content type="html"><![CDATA[<p>啊啊啊啊啊啊，sorry，sorry，<del>鸽王</del>(bushi)我回来啦！！！<span id="more"></span>不好意思哇，又双叒叕鸽了好几天…</p><p>今天晚上也就是7.19号晚上，实在没事干的我<del>只好</del>开始学习，迈出了学习HTML的第一步，后面会陆续学习CSS和JS滴<del>（如果有时间的话）</del>！</p><p>今天初步学习了一下HTML的基础知识，<del>仅凭刚学完的记忆</del>总结一下，有以下几点：</p><p><strong>1、HTML是一种超文本标记语言，不是编程语言</strong></p><p>​ <strong>标记语言就是一套标签</strong> </p><p>​ <strong>所谓网页其实就是HTML文件</strong></p><p><strong>2、浏览器内核（即渲染引擎）负责读取网页内容，整理讯息，计算网页的显示方式并显示页面</strong></p><p><strong>3、HTML是Web标准里的结构部分，用于对网页元素进行整理和分类</strong></p><p>​     <strong>CSS是表现部分，用于设置网页元素的板式，颜色，大小等外观样式，主要指的是CSS</strong></p><p>​ <strong>JS是行为部分，是指网页模型的定义与交互的编写</strong></p><p><strong>4、HTML的基本语法即标签，标签一般成对出现，如 &lt; html &gt; 为开始标签，&lt; /html &gt; 为结束标签</strong></p><p>​  <strong>也存在单标签，如 &lt; br / &gt;，但是很少</strong></p><p>​   <strong>这些标签具有包含和并列关系</strong>   </p><p><strong>5、&lt; html &gt;为根标签，是页面中最大的标签</strong></p><p>​  <strong>&lt; head &gt;为文档头部标签，其中必须设置的标签为title</strong></p><p>​  <strong>&lt; title &gt;为文档的标题，网页中显示为网页标题</strong></p><p>​   <strong>&lt; body &gt;为文档的主题，元素包含文档的所有内容，网页的内容基本都放到body里面</strong></p><p><strong>好啦，暂时先总结这么多，我发现写博客记录学习过程好费时间哇，有这个写博客的时间我已经可以又学了很多知识呢，害，有点纠结了，总之，今天的记录先到这里啦！下(bu)篇(zhi)博(he)客(shi)再见~</strong></p>]]></content>
+      
+      
       <categories>
-        <category>hexo博客</category>
-        <category>学习记录</category>
+          
+          <category> hexo博客 </category>
+          
+          <category> 学习记录 </category>
+          
       </categories>
-      <tags>
-        <tag>自主学习</tag>
-        <tag>JavaScript</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 自主学习 </tag>
+            
+            <tag> HTML </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的第一篇博客</title>
+      <link href="/2022/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2022/07/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+      
+        <content type="html"><![CDATA[<p><del>注册CSDN也蛮久的了，一直没有发布过什么文章之类的，仅仅在需要的时候用CSDN查过资料等。</del></p><p>**今天我打算发布我的第一篇<del>CSDN</del>Hexo博客的文章<span id="more"></span>**，<del>本来是打算发布到我的Hexo博客上的，但是由于Hexo博客发文章有点麻烦，我还要学习一下怎么用Hexo博客写文章，牵扯到一些相关编辑器的下载与使用等等，所以先把这第一篇文章发在我的CSDN博客上，后续</del>我会把文章<del>转</del>发到Hexo博客上，也欢迎各位来我刚搭好没多久，美化还在进行中的Hexo博客看看呀~</p><p>PS:<u>我的Hexo博客地址</u>：<del><em>Hexo</em></del>你已经在我的Hexo博客里啦！</p><p>分流后学习智能学科与技术专业的即将大三的我，一直感到深深的焦虑，成绩还不够保研，学习上感觉没学到什么东西，技术上更是没有学会什么技术，于是再2022这个暑假我决定要做些什么事情，比如提前学习一些大三将要学习的内容，如人工智能，计算机网络，嵌入式计算机系统，机器学习，数据结构与算法（补修）等等或者自学一些语言技术等，如Python，Java，JavaScript等等以及如何制作微信小程序等等…</p><p>因为我想记录以下我学习的过程，于是决定先搭建一个博客，我看其他同学大佬等都有自己的博客，也挺羡慕的，所以自己也学习他们用Hexo搭建了一个属于自己的博客~</p><p>我的Hexo博客于2022年7月9日中午开工，花了几个小时，在网上查阅各种资料，下载各种所需软件插件等等，一路摸爬滚打，四处碰bug之后终于搭好了一个属于自己的Hexo博客，虽然还只是一个基本的框架，具体装饰还没开搞，但当时的我已经感到非常开心了，终于有了第一个属于自己的博客了！然后我决定想再把博客修饰以下，打扮成自己想要的效果，但是由于过程复杂且不懂（PS：其实是我太懒惰啦！<del>哈哈哈</del>）于是进度为0的美化过程又被我鸽了两天，直到7.11号才开工…</p><p>7.11日我从上午10点左右把一直搞到下午5点多，才终于小小的修饰了一下自己的博客，我用的别人的主题，自己小小的修改了一下（PS：一开始还想照着资料自己从0开始弄来着，后来才发现是我异想天开了，哈哈哈<del>），注意，这个时候还只是小小的改了一点内容啦！因为刚开始不懂，还打算自己弄，碰到了很多bug，所以耽误了很多时间啦！弄完后我还开心的把我的Hexo博客地址发给我的几个朋友想让他们看看，哈哈哈</del>至此，我的博客已经有了一个雏形，后续还需要长时间的美化修改，于是你们应该猜的到的啦，哈哈哈，我又鸽了两天，直到今天，7.13号才开始进一步的细致的美化修改，但是其实今天改了很久，效果也就一般吧，主要是还碰到了各种问题，其中最让我无语的问题是可能网络出了点问题，我在本地调好的Hexo博客上传失败了好多次，而且上传之后，在github打开还有问题，没办法正常显示网页内容了，想发博客都觉得不行了，呜呜呜<del>于是我先到CSDN来记录一下这几天的内容啦，我还要继续为在Hexo博客上发文准备一些基础啦，比如下载并学会使用MarkDown编辑器什么的，所以暂时就记录到这里叭</del></p><p>PS：<del>最后再顺便附上几张我的博客</del>（还在持续优化探索中）<del>的图片啦</del>！嘿嘿嘿<del>欢迎大家来我的Hexo博客看看呀</del> （这篇文章又鸽了两天才发到Hexo博客上，我真是个<del>鸽王</del>（bushi)，哈哈哈，后续的学习内容也会陆续记录在我的Hexo博客上的，欢迎大家监督我学习奥<del>嘿嘿嘿，本来打算先把Hexo博客美化好再发文章的，但是我发现美化太难了，对于我这种对HTML，CSS，JS几乎一窍不通的小白来讲，呜呜呜~~~，所以我打算便美化博客边学习，同时发表学习记录博客啦</del>不过后续的学习记录博客可能又要鸽几天啦，哈哈哈~</p><p>好啦，我的第一篇Hexo博客内容就先写到这里叭<del>大家下篇博客见啦</del>（最后再提一嘴，这个Typora Markdown编辑器实在太好用啦，呜呜呜~~~）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人博客 </category>
+          
+          <category> Hexo博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 博客 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/07/09/hello-world/"/>
+      <url>/2022/07/09/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>!<span id="more"></span> This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new "My New Post"</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
