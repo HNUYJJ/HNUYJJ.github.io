@@ -6,7 +6,7 @@
   <link href="https://hnuyjj.github.io/atom.xml" rel="self"/>
   
   <link href="https://hnuyjj.github.io/"/>
-  <updated>2022-08-11T14:36:17.183Z</updated>
+  <updated>2022-09-13T11:01:22.091Z</updated>
   <id>https://hnuyjj.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python学习</title>
+    <link href="https://hnuyjj.github.io/2022/09/13/Python%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://hnuyjj.github.io/2022/09/13/Python%E5%AD%A6%E4%B9%A0/</id>
+    <published>2022-09-13T10:44:33.000Z</published>
+    <updated>2022-09-13T11:01:22.091Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;好久不见！我又回来咯！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="hexo博客" scheme="https://hnuyjj.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="学习记录" scheme="https://hnuyjj.github.io/categories/hexo%E5%8D%9A%E5%AE%A2/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="自主学习" scheme="https://hnuyjj.github.io/tags/%E8%87%AA%E4%B8%BB%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Python学习" scheme="https://hnuyjj.github.io/tags/Python%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>微信小程序开发入门</title>
